@@ -14,7 +14,6 @@ const githubUrl = "https://github.com/Wycliffe1738";
 
 const phoneNumber = "+254712380466";
 const emailAddress = "masitawycliffe.cy4@gmail.com";
-
 const engineeringDriveUrl =
   "https://drive.google.com/drive/folders/1QLbWFF3IUk1NpcKNqfVUUNT9oQ2KYTsg";
 
@@ -67,7 +66,6 @@ const projectData = {
       linkLabel: "Add project link",
     },
   ],
-
   writing: [
     {
       title: "B2B SaaS Website Copy",
@@ -250,7 +248,7 @@ function Home() {
           </span>
 
           <h1>
-            I’m WYCLIFFE MASITA
+            I’m Wycliffe masita
             <br />
             <span>Full-Stack Software Engineer.</span>
           </h1>
